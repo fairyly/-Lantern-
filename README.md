@@ -26,3 +26,7 @@
 [其他系统下载](https://github.com/getlantern/forum/issues/833)
 
 请大家收藏本页面，方便日后下载新版。
+
+
+
+## 其他一键 翻墙VPN(赛风Psiphon、快喵、SuperVPN OpenVPN)
